@@ -1,9 +1,13 @@
-
-import java.util.Scanner;
 /**
  * 
  */
-public class DiemTBSinhVien {
+
+import java.util.Scanner;
+
+/**
+ * 
+ */
+public class Bai1 {
 
 	/**
 	 * @param args
