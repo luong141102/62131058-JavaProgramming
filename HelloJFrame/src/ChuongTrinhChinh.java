@@ -2,8 +2,10 @@
  * 
  */
 import java.awt.FlowLayout;
+import java.awt.event.ActionListener;
 
 import javax.swing.JButton;
+import javax.swing.JDialog;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
 /**
@@ -23,6 +25,13 @@ public class ChuongTrinhChinh {
 		JButton btnOK = new JButton("Nút");
 		f.add(btnOK);
 		f.show();
+	}
+	class BolangNgheOK implements ActionListener{
+		public void actionPerformed(ActionEvent e) {
+			JDialog dialog = new JDialog(this, "Thong Bao!");
+			dialog.setTitle("Thong bao gi do");
+			dialog.show();
+		}
 	}
 
 }
