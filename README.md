@@ -6,3 +6,4 @@ Trần Ngọc Lương.
   - [Lab3](https://github.com/luong141102/62131058-JavaProgramming/tree/main/Lab3)
   # Thực hành
   - [TH01](https://github.com/luong141102/62131058-JavaProgramming/tree/main/TH_Bai0_SimpleCalculator)
+  - [TH1](https://github.com/luong141102/62131058-JavaProgramming/tree/main/TH_Bai1_Login)
