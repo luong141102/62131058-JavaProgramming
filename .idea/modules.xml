@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/62131058-JavaProgramming.iml" filepath="$PROJECT_DIR$/.idea/62131058-JavaProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai1_Hello/Bai1_Hello.iml" filepath="$PROJECT_DIR$/Bai1_Hello/Bai1_Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloJFrame/HelloJFrame.iml" filepath="$PROJECT_DIR$/HelloJFrame/HelloJFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH_Bai0_SimpleCalculator/TH_Bai0_SimpleCalculator.iml" filepath="$PROJECT_DIR$/TH_Bai0_SimpleCalculator/TH_Bai0_SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH_Bai1_Login/TH_Bai1_Login.iml" filepath="$PROJECT_DIR$/TH_Bai1_Login/TH_Bai1_Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH_Bai2_PhuongTrinhBac2/TH_Bai2_PhuongTrinhBac2.iml" filepath="$PROJECT_DIR$/TH_Bai2_PhuongTrinhBac2/TH_Bai2_PhuongTrinhBac2.iml" />
+    </modules>
+  </component>
+</project>
