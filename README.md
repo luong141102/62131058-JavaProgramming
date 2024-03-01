@@ -9,3 +9,4 @@ Trần Ngọc Lương.
   - [TH_Bai1](https://github.com/luong141102/62131058-JavaProgramming/tree/main/TH_Bai1_Login)
   - [TH_Bai2](https://github.com/luong141102/62131058-JavaProgramming/tree/main/TH_Bai2_PhuongTrinhBac2)
   # Thực hành thêm
+  - [THPlus_Bai1](https://github.com/luong141102/62131058-JavaProgramming/tree/main/THPlus_Bai1)
